@@ -1,13 +1,10 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
-  "headers": []
-  {
+  "headers": [],
   "functions": {
     "middleware.js": {
       "runtime": "edge"
     }
   }
 }
-}
-  
