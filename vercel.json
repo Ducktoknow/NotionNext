@@ -4,7 +4,7 @@
   "headers": [],
   "functions": {
     "middleware.js": {
-      "runtime": "edge"
+      "runtime": "edge@1.0.0"  // 为 Edge 运行时指定版本
     }
   }
 }
